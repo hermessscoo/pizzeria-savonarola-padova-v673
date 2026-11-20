@@ -1,0 +1,186 @@
+{
+ "version": 11,
+ "raw": {
+  "brand": {
+   "name": "Pizzeria Savonarola",
+   "tagline": "Autentica pizza napoletana e impasto a lenta lievitazione a Padova",
+   "sector": "Ristorazione & Pizzeria"
+  },
+  "palette": {
+   "bg": "#faf9f6",
+   "fg": "#1a1a1a",
+   "accent": "#c1121f",
+   "muted": "#6b6b6b",
+   "surface": "#f0ebe0",
+   "on_accent": "#ffffff",
+   "line": "#d6d5d3",
+   "dark": false
+  },
+  "typography": {
+   "title": "Syne",
+   "body": "IBM Plex Sans"
+  },
+  "sections": [
+   {
+    "role": "attenzione",
+    "type": "hero_image",
+    "title": "Pizza napoletana autentica a Padova",
+    "subtitle": "Impasto a lenta lievitazione 48 ore, ingredienti DOP, forno a legna",
+    "cta_primary": "Prenota un Tavolo",
+    "cta_primary_href": "#prenota",
+    "eyebrow": "Prenotazione con anticipo garantita",
+    "cta": {
+     "href": "#contatti",
+     "label": "Prenota ora"
+    }
+   },
+   {
+    "role": "problema",
+    "type": "text_reveal",
+    "statement": "Stanco delle solite pizze pesanti o industriali? A Padova meriti il gusto verace dell'arte pizzaiola napoletana.",
+    "title": "Pizza industriale non è pizza",
+    "text": "Ti sei mai chiesto perché l'ultima pizza al supermercato non ha più gusto? L'impasto pesante, la lievitazione veloce e gli ingredienti di compromesso rovinano l'esperienza. A Padova meriti una pizza che ti svegli a forma, non ti lascia sonnolento."
+   },
+   {
+    "role": "soluzione",
+    "type": "split",
+    "title": "Ecco la nostra pizza vera",
+    "text": "Tre semplici passi per la pizza perfetta: 1) Impasto riposato 48h in forno a legna, 2) Ingredienti DOP selezionati, 3) Cottura a 450°C per un cornicione soffice e croccante."
+   },
+   {
+    "role": "offerta",
+    "type": "offer",
+    "title": "Specialità della casa e menu completo",
+    "items": [
+     {
+      "name": "Margherita Verace DOP",
+      "price": "€ 9,50",
+      "desc": "Pomodoro San Marzano DOP, mozzarella di bufala campana DOP, basilico fresco, olio evo bio",
+      "title": "Margherita Verace DOP",
+      "text": "Pomodoro San Marzano DOP, mozzarella di bufala campana, basilico fresco",
+      "tag": "€ 9,50"
+     },
+     {
+      "name": "Savonarola Special",
+      "price": "€ 13,00",
+      "desc": "Fior di latte di Agerola, crema di zucca violina, salsiccia nostrana padovana e provola affumicata",
+      "title": "Savonarola Special",
+      "text": "Fior di latte Agerola, crema di zucca violina, salsiccia padovana e provola affumicata",
+      "tag": "€ 13,00"
+     },
+     {
+      "name": "Marinara ai Sapori Antichi",
+      "price": "€ 8,50",
+      "desc": "Pomodoro San Marzano, origano dei monti Iblei, aglio rosso di Nubia, acciughe di Cetara",
+      "title": "Marinara Antica",
+      "text": "Pomodoro San Marzano, origano montano, aglio rosso Nubia, acciughe Cetara",
+      "tag": "€ 8,50"
+     }
+    ],
+    "subtitle": "Service speed garantito. Prenotazione telefonica o WhatsApp"
+   },
+   {
+    "role": "usp",
+    "type": "stacked_cards",
+    "title": "Perché scegliere noi",
+    "cards": [
+     {
+      "title": "Lievitazione Naturale 48h",
+      "desc": "Un impasto soffice dal cornicione alveolato ad alta digeribilità."
+     },
+     {
+      "title": "Forno a Legna Tradizionale",
+      "desc": "Cottura ad oltre 450°C per un risultato dorato, fragrante e verace."
+     },
+     {
+      "title": "Ingredienti 100% DOP e Bio",
+      "desc": "Solo filiera certificata dai migliori produttori campani e veneti."
+     }
+    ]
+   },
+   {
+    "role": "extra",
+    "type": "services",
+    "extra_why": "Presentazione delle specialità e dei servizi di asporto e delivery",
+    "title": "I nostri servizi",
+    "items": [
+     {
+      "title": "Consegne a domicilio",
+      "desc": "Ambiente caldo, accogliente e raffinato con dehors estivo a Padova.",
+      "text": "Prima a Padova e provincia, entro 30 minuti dalla cottura"
+     },
+     {
+      "title": "Pranzo veloce",
+      "desc": "Ordina telefonicamente o online e ritira all'orario concordato, calda e fragrante.",
+      "text": "Take-away e delivery per chi ha poco tempo"
+     },
+     {
+      "title": "Eventi privati",
+      "desc": "Menu personalizzati per compleanni, cene aziendali e ricorrenze speciali.",
+      "text": "Menu personalizzati per completti, cene aziendali e feste"
+     }
+    ]
+   },
+   {
+    "role": "extra",
+    "type": "horizontal_gallery",
+    "extra_why": "Galleria fotografica dei piatti del forno e dell'atmosfera del locale",
+    "title": "L'Arte della Pizza nei Nostri Scatti"
+   },
+   {
+    "role": "prova",
+    "type": "split",
+    "title": "Cosa dicono i nostri clienti",
+    "text": "Oltre 1.200 clienti soddisfatti a Padova. Riconosciuti tra le migliori pizzerie veraci del centro storico per recensioni su Google e TripAdvisor.",
+    "subtitle": "Recensioni verify: Google, TripAdvisor, WhatsApp"
+   },
+   {
+    "role": "cta",
+    "type": "cta",
+    "title": "Prenota ottesso la tua pizza",
+    "subtitle": "Spaccati la pizza con un amico, organizza un evento privato o chiamaci per il delivery. Siamo aperti tutti i giorni tranne il lunedì.",
+    "button_text": "Prenota Ora",
+    "button_href": "tel:+390491234567",
+    "cta": {
+     "href": "#contatti",
+     "label": "Chiama ora"
+    }
+   },
+   {
+    "role": "faq",
+    "type": "faq",
+    "title": "Domande frequenti",
+    "items": [
+     {
+      "q": "DURATA LIEVITAZIONE?",
+      "a": "Impasto 48 ore in frigorifero. Questo ci garantisce una pizza digeribile e dal sapore intenso."
+     },
+     {
+      "q": "CANALE WHATSAPP?",
+      "a": "Sì, contattaci al numero nella pagina: per prenotazioni, delivery e consigli suizza."
+     },
+     {
+      "q": "ORARI?",
+      "a": "Aperti tutti i giorni tranne il lunedì: 12-15 per pranzo, 19-23 per cena. Weekend fino a mezzanotte."
+     }
+    ]
+   }
+  ],
+  "todo": [
+   "Confermare orari precisi di apertura",
+   "Verificare numero di telefono per prenotazioni WhatsApp"
+  ],
+  "seo": {
+   "description": "Pizzeria Savonarola a Padova: autentica pizza napoletana con impasto a lenta lievitazione 48h, ingredienti DOP, forno a legna. Consegna, pranzo veloce, eventi p"
+  },
+  "nav_cta": {
+   "href": "#contatti",
+   "label": "Prenota"
+  }
+ },
+ "logo": null,
+ "favicon": null,
+ "model": null,
+ "video": null,
+ "images": {}
+}
